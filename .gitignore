@@ -1,0 +1,22 @@
+# IDE files
+.idea/
+*.iml
+
+# Compiled files
+out/
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Media files
+*.mp4
+*.wav
+
+# Office files
+*.docx
+*.doc
+*.pptx
