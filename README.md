@@ -33,8 +33,6 @@ src/
 └── AudioManager.java  - 音频管理系统
 ```
 
-## 开发团队
-- Group-29
 
 ## 如何运行
 1. 确保已安装 Java 运行环境
